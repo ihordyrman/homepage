@@ -144,3 +144,5 @@ orleans.codegen.cs
 # .NET Core build folders
 bin/
 obj/
+appsettings.json
+appsettings.Development.json
