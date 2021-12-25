@@ -1,0 +1,108 @@
+@import './bootstrap/bootstrap.min.css';
+
+html, body {
+    height: 100%;
+    background-color: #D8DEE9;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #E5E9F0;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ECEFF4;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.content-wrapper {
+    line-height: 1.4;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 30px 25px;
+}
+
+.header-info {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    justify-content: center;
+    min-height: 250px;
+    padding: 0 20px;
+    position: relative;
+    text-align: center;
+    color: #3B4252;
+    background-color: #ECEFF4;
+}
+
+.more-info {
+    background-color: #E5E9F0;
+    color: #3B4252
+}
+
+.skills {
+    background-color: #dce2ec;
+    color: #3B4252;
+}
+
+.contact {
+    color: #3B4252;
+    background-color: #D8DEE9;
+}
+
+a:link {
+    color: #3B4252;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #576a9d;
+}
+
+button, a {
+    text-decoration: none;
+    color: #e4eaf5;
+}
+
+.my-spacer {
+    flex: 1 1 auto;
+}
+
+.navbar {
+    background-color: #E5E9F0;
+    font-size: 1.6em;
+    position: static;
+}
+
+.navbar a {
+    color: #3B4252;
+    padding-left: 10px;
+}
+
+.navbar a:hover {
+    color: #576a9d;
+}
+
+.alert {
+    background-color: #81A1C1;
+}
+
+.btn-nord {
+    background-color: #81A1C1;
+    margin-left: 10px;
+    font-size: 0.6em;
+}
