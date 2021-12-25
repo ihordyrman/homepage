@@ -73,6 +73,10 @@ a:hover {
     color: #576a9d;
 }
 
+a:visited {
+   color: #81A1C1; 
+}
+
 button, a {
     text-decoration: none;
     color: #e4eaf5;
