@@ -1,4 +1,4 @@
-@import './bootstrap/bootstrap.min.css';
+﻿@import './bootstrap/bootstrap.min.css';
 
 html, body {
     height: 100%;
@@ -74,7 +74,7 @@ a:hover {
 }
 
 a:visited {
-   color: #81A1C1; 
+    color: #81A1C1;
 }
 
 button, a {
