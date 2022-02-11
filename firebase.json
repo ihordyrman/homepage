@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "Home.Wasm/bin/Debug/net6.0/publish/wwwroot",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
