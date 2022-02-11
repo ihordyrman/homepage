@@ -148,3 +148,6 @@ appsettings.json
 appsettings.Development.json
 release
 node_modules/
+.fable/*
+bootstrap/*
+font-awesome/*
