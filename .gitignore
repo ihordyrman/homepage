@@ -151,3 +151,5 @@ node_modules/
 .fable/*
 bootstrap/*
 font-awesome/*
+/public/bootstrap/
+/public/font-awesome/
