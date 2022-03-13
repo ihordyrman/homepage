@@ -177,3 +177,8 @@ a {
         display: block;
     }
 }
+
+.warship {
+    font-size: 0.7em;
+    text-decoration: blink!important;
+}
