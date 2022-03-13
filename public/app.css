@@ -102,10 +102,6 @@ a {
     color: #576a9d;
 }
 
-.alert {
-    background-color: #81A1C1;
-}
-
 .btn-nord {
     background-color: #81A1C1;
     margin-left: 10px;
@@ -178,7 +174,11 @@ a {
     }
 }
 
+.alert-dark {
+    background-color: black;
+}
+
 .warship {
-    font-size: 0.7em;
+    color: white!important;
     text-decoration: blink!important;
 }
